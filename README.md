@@ -1,24 +1,23 @@
-# README
+# Taskify
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just another To-Do app for learning Hotwire in a Rails app.
 
-Things you may want to cover:
+Ruby-version: 3.2.2
 
-* Ruby version
+Rails-version: 7.1.2
 
-* System dependencies
+Following the instrucions of the site https://courses.writesoftwarewell.com/p/hotwire-handbook
 
-* Configuration
+## Run the Project
 
-* Database creation
+Install dependencies:
 
-* Database initialization
+```
+bundle install
+```
 
-* How to run the test suite
+And run the projet by:
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+./bin/dev
+```
